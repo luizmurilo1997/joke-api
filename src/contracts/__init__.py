@@ -1,0 +1,2 @@
+from contracts.joke_contract import JokeContractResponse
+from contracts.joke_contract import JokeContractResponseList
