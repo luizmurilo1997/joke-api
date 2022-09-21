@@ -1,5 +1,3 @@
-import re
-from unicodedata import category
 from fastapi.testclient import TestClient
 
 def test_get_random_joke(client: TestClient):
